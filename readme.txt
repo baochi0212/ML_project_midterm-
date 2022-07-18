@@ -21,3 +21,4 @@
 - get pretrained checkpoints:   
 - PL_tutorial for learning 
 - get pretrained ckp: .zip
+4. For example of usage: midterm_usage.ipynb
